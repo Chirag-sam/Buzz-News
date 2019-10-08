@@ -1,10 +1,10 @@
 # Buz News
 
-An iPhone app that shows the latest news, news by different categories and allow user to add news to favorites and access them later.
+An iPhone app that shows the latest news, sorted by different categories and allows user to add news to 'favorites' and access them later.
 
 ## Requirements
 
- * Device running macOS(MacBook or iMac)
+ * Device running macOS (MacBook or iMac)
  * [Xcode](https://developer.apple.com/xcode/)
 
 ## How to Run
@@ -36,12 +36,12 @@ An iPhone app that shows the latest news, news by different categories and allow
   * Run the project using the `play` button on top left corner of xcode as you can see below in the screenshot.
   ![uploadImage](https://user-images.githubusercontent.com/16102594/50043842-1430fc00-00a1-11e9-88ca-02a9c1afb8e2.png)
 
-## Things Learnt
+## Things I Learnt
 
- * Using FirebaseUI-Auth and RealTime Database
- * Researching and leveraging a new framework or library
- * Designing and building an app from the ground up
- * Finding sources of networked data
+ * Using FirebaseUI-Auth and RealTime database.
+ * Researching and leveraging a new framework or library.
+ * Designing and building an app from the ground up.
+ * Finding sources of networked data.
 
 ## ScreenShots
 <img src="https://user-images.githubusercontent.com/16102594/50043852-375bab80-00a1-11e9-8b1c-dd6c11e81629.png" width="45%" height="800" align="left"/>
